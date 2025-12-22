@@ -1,0 +1,1 @@
+{user.__init__.__globals__}  
