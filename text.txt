@@ -1,1 +1,1 @@
-{user.__init__.__globals__['os'].listdir('C:/')}
+{user.__init__.__globals__.get('os').listdir('C:/')}
